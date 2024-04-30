@@ -536,3 +536,5 @@ a.button:hover {
 
 ## Email
 ![aku5](https://github.com/Febriyaninurhida123/Pemrograman_Web_TGS7/assets/90132092/d2731919-a2ea-49e1-9b9f-07d1db46e06c)
+
+## Sekian, Terima Kasih
